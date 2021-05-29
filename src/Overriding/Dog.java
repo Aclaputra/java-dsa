@@ -1,2 +1,9 @@
-package Overriding;public class Dog {
+package Overriding;
+
+public class Dog extends Animal{
+
+    @Override
+    void speak(){
+        System.out.println("The dog goes *bark*");
+    }
 }
