@@ -1,2 +1,7 @@
-package Overriding;public class Animal {
+package Overriding;
+
+public class Animal {
+    void speak() {
+        System.out.println("The animal speaks");
+    }
 }
