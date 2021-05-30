@@ -1,2 +1,5 @@
-package Abstraction;public class Vehicle {
+package Abstraction;
+
+public abstract class Vehicle {
+    abstract void go();
 }
