@@ -1,2 +1,7 @@
-package AccessModifier.package2;public class Asub {
+package AccessModifier.package2;
+
+import AccessModifier.package1.*;
+
+public class Asub extends A {
+
 }
