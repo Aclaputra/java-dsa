@@ -1,2 +1,4 @@
-package AccessModifier;public class Main {
+package AccessModifier;
+
+public class Main {
 }
