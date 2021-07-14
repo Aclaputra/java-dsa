@@ -3,7 +3,7 @@ package com.aclaputra.BigO;
 public class Main {
     public static void main(String[] args) {
         /**
-         * Fastest to Slowest in Time / long term
+         * Fastest to Slowest in Time / Performance of algorithm
          * ====================================================
          * O(1) = constant time
          *      - random access of an element in an array
