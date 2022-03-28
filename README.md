@@ -5,7 +5,7 @@ Java Data Structures and Algorithms:
 - GUI 
 - Math 
 - random numbers 
-- if 
+- if expressions
 - switch 
 - logical operators 
 - array 
