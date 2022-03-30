@@ -1,7 +1,7 @@
 # :brown_heart: Java data structures
 Java Data Structures and Algorithms:
-- user input 
-- expression 
+- User input 
+- Expression 
 - GUI 
 - Maths 
 - random numbers 
