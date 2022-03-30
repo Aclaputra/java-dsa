@@ -3,7 +3,7 @@ Java Data Structures and Algorithms:
 - user input 
 - expression 
 - GUI 
-- Math 
+- Maths 
 - random numbers 
 - if expressions
 - switch 
