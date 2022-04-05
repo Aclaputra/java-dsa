@@ -1,4 +1,4 @@
-# :brown_heart: Java data structures
+# :brown_heart: Java Data structures
 Java Data Structures and Algorithms:
 - User input 
 - Expression 
